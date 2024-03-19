@@ -77,6 +77,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.copypastecharacter.com](https://www.copypastecharacter.com/) : Copy special characters that aren't on your keyboard.
 * [https://cidr.online](https://cidr.online/) : This Subnet/CIDR calculator allows you to enter a IPv4 CIDR range and calculates IP addresses, Network Size, Subnet Mask, Min and Max Host etc.
 * [https://codebeautify.org](https://codebeautify.org/) : CodeBeautify is an online code beautifier which allows you to beautify your source code.
+* [https://codifyformatter.org](https://codifyformatter.org/) : CodifyFormatter is an online tool which allows you to beautify, minify, formate and convert  your source code to one language to another.
 * [https://css-tricks.com](https://css-tricks.com/) : Learn about some cool CSS tricks through articles and videos. 
 * [https://crontab.guru](https://crontab.guru/) : The quick and simple editor for cron schedule expressions.
 * [http://cloudping.bastionhost.org](http://cloudping.bastionhost.org/en/) : This site allows you to perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world.
